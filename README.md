@@ -5,7 +5,7 @@ C 言語でつくったゲームボーイアドバンス（GBA）の 2D シュ�
 ## プレイ方法
 
 1. レポジトリをクローン or ダウンロード
-2. shooting-game.mb ファイルを開く
+2. shooting-game.mb ファイルを vbawin.exe で開く
 
 ## 操作説明
 
